@@ -1,0 +1,17 @@
+<!doctype html>
+ <html lang=en>
+ <head>
+   <meta charset=utf-8>
+   <title>dogs or cats?</title>
+ </head>
+ <body>
+   <h1>dogs or cats? what to choose?</h1>
+     <div>
+       <div>
+         <input placeholder="Alternatives"></input>
+       </div>
+       <button>alternatives</button>
+     </div>
+     <button>choose</button>
+   </body>
+   </html>
