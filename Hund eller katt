@@ -1,17 +1,18 @@
 <!doctype html>
- <html lang=en>
+ <html lang=swe>
  <head>
    <meta charset=utf-8>
-   <title>dogs or cats?</title>
+   <title>Hund eller katt?</title>
+   <link href=./"main css" rel="stylesheet" type="text/css>
  </head>
  <body>
-   <h1>dogs or cats? what to choose?</h1>
+   <h1>Hund eller katt? Vad ska jag välja?</h1>
      <div>
        <div>
-         <input placeholder="Alternatives"></input>
+         <input placeholder="Alternativ"></input>
        </div>
-       <button>alternatives</button>
+       <button>Skriv in dina alternativ</button>
      </div>
-     <button>choose</button>
+     <button>Välj</button>
    </body>
    </html>
